@@ -1,0 +1,2 @@
+# Adaptive-Transaction-Risk-Scoring-Using-Unsupervised-Learning
+Adaptive Transaction Risk Scoring Using Unsupervised Learning is a fraud detection system that identifies suspicious transactions without labeled data. Using anomaly detection and clustering techniques, it analyzes transaction patterns, assigns dynamic risk scores, and helps detect potential fraud in real time for improved financial security.
